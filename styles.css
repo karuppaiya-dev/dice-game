@@ -21,6 +21,23 @@ h1 {
   color: #4ECCA3;
 }
 
+/* Centered Roll Dice Button */
+#rollBtn {
+  display: block;
+  margin: 20px auto 40px auto;
+  background-color: #4ECCA3;
+  border: none;
+  padding: 15px 40px;
+  font-size: 1.5rem;
+  border-radius: 12px;
+  cursor: pointer;
+  font-family: 'Indie Flower', cursive;
+}
+
+#rollBtn:hover {
+  background-color: #3cbf94;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
