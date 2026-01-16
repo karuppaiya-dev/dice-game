@@ -1,5 +1,8 @@
 # 🎲 Dice Game – Two Player Dice Roller
 
+## 🚀 Live Demo
+[View Live Demo](https://karuppaiya-dev.github.io/dice-game/)
+
 This is a fun and interactive two-player dice game built using **HTML, CSS, and JavaScript**.  
 Players click the **Roll Dice** button to roll the dice and the winner is displayed automatically.
 
